@@ -1,0 +1,6 @@
+name: anthropic-custom-provider
+kind: model-provider
+version: 1.0.1
+description: Anthropic Messages protocol against a custom base_url (default — CLR Gateway)
+author: nnnet/AiManager
+repo: https://github.com/nnnet/hermes-plugin-anthropic-custom
